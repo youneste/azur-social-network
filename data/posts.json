@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "text": "Belle journée a tous !",
+        "image": "assets/img/post1.jpg",
+        "reactions": { "like": 5, "dislike": 1, "love": 10 },
+        "comments": [
+            { "user": "Alice", "comment": "Super post j'ai kiffé !" },
+            { "user": "Jaques", "comment": "Trop bien !" }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Cette petite boule de poil :p",
+        "image": "assets/img/post2.jpg",
+        "reactions": { "like": 8, "dislike": 0, "love": 3 },
+        "comments": []
+    }
+]
